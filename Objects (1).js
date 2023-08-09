@@ -249,3 +249,146 @@ let organizations = [
 
 
 ]
+
+let Honorees = [
+
+    {
+       "year": "2005",
+       "honorees": [
+            "Karen Devitt",
+            "Eileen Fane, OSU, Ph.D.",
+            "Carl Procario-Foley",
+            "Speaker: John Spicer, Pres. and CEO, Sound Shore Health System"
+       ]
+    },
+
+    {
+        "year": "2006",
+        "honorees": [
+            "Mohan Cheema, M.D.",
+            "Bryon Gray",
+            "Jim Killoran",
+            "June Schetterer",
+            "Speaker: Barbara Davis, City Historian"
+        ]
+     },
+
+     {
+        "year": "2007",
+        "honorees": [
+            "Joan Bristol",
+            "Gloria Hollis",
+            "Linda Maier",
+            "Speaker: Richard Organisciak, Superintendent of New Rochelle Schools"
+        ]
+     },
+
+    {
+        "year": "2008",
+        "honorees": [
+            "Josh Koerner",
+            "Jeff Krause and Bennie Giles",
+            "John and Mary Manning",
+            "Speaker: Dr. Marsha Gordon, President/C.E.O.",
+            "The Business Council of Westchester"
+        ]
+     },
+
+     {
+        "year": "2009",
+        "honorees": [
+            "Margaret MacKay",
+            "Reverend Hugh Farrish",
+            "Betty Grad-Gross",
+            "Speaker: Rosa W, Boone, Westchester Coalition for the Hungry and Homeless, Inc."
+        ]
+     },
+
+     {
+        "year": "2010",
+        "honorees": [
+            "Lillian Brynin",
+            "Joel Fridovich",
+            "New Rochelle Lions Club",
+            "Speaker: Richard P. Swierat, Executive Director, ARC"
+        ]
+     },
+
+     {
+        "year": "2011",
+        "honorees": [
+            "Eugenia (Jeani) H. Miller",
+            "Alida Yoguez",
+            "Reverend Dr. Allen Paul Weaver, Jr.",
+            "Roberta Fox",
+            "Speaker: Barbara Davis, City Historian"
+        ]
+     },
+
+     {
+        "year": "2012",
+        "honorees": [
+            "Deborah Blatt",
+            "Sylvia Samilton-Baker",
+            "Mary Jane Reddington",
+            "Alan J. Cohen (A.J.'s Burgers"
+        ]
+     },
+
+     {
+        "year": "2013",
+        "honorees": [
+            "Terrence Fudge",
+            "Reverend Robert Gahler",
+            "Kandy Mama, M.D.",
+            "George T. Davis Funeral Home"
+        ]
+     },
+
+     {
+        "year": "2014",
+        "honorees": [
+            "Alvin & Friends Restaurant",
+            "Janet Guarasci",
+            "The Rotary Club of New Rochelle",
+            "Ursuline Community of New Rochelle"
+        ]
+     },
+
+     {
+        "year": "2015",
+        "honorees": [
+            "Joanne Bartoli",
+            "Wendy O'Sullivan and Adam Raymonda",
+            "Vivian Spady",
+            "The Brown Bag Lunch Program of Trinity-St. Paul's Episcopal Church"
+        ]
+     },
+
+     {
+        "year": "2016",
+        "honorees": [
+            "Gustavo Barbosa",
+            "Milijana 'Millie' Radonjic",
+            "transFORM"
+        ]
+     },
+
+     {
+        "year": "2017",
+        "honorees": [
+            "Fiends of the Library",
+            "Colleen Gardephe",
+            "Detective Christopher Greco"
+        ]
+     },
+
+     {
+        "year": "2018",
+        "honorees": [
+            "Susan Fleming",
+            "Revered Dr. Michelle E. Lewis",
+            "Kemesha Salmon, TP Toys"
+        ]
+     }
+]
